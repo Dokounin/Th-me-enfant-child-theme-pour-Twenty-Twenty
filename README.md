@@ -1,4 +1,4 @@
-# Thème enfant (child theme) pour Twenty Twenty
+# Thème enfant (child theme) pour Twenty Twenty Wordpress
 
 ## Prérequis
 
